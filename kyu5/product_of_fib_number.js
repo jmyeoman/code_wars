@@ -1,0 +1,5 @@
+// Problem
+
+function productFib(prod){
+  // ...
+}
